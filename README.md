@@ -13,7 +13,7 @@ Steam成就管理器 (简称SAM) 是一个轻量级的便携式应用程序，�
 -图标已被Fugue图标集中的图标所取代。
 -版本已升级到7.0.x.x，以表示开源版本。
 
-请在右侧Releases处下载最新汉化版本
+[下载最新汉化版本](https://github.com/SweelLong/SteamAchievementManager-CN/releases/tag/v1.0.0.0)
 
 [![生成状态](https://ci.appveyor.com/api/projects/status/00vic6jliar6j0ol/branch/master?svg=true)](https://ci.appveyor.com/project/gibbed/steamachievementmanager/branch/master)
 
