@@ -760,7 +760,7 @@ namespace SAM.Game
                 this,
                 string.Format(
                     CultureInfo.CurrentCulture,
-                    "已存储个成就 & {1} 个统计信息。",
+                    $"已存储 {achievements} 个成就以及 {stats} 个统计信息.",
                     achievements,
                     stats),
                 "信息",
